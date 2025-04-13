@@ -15,11 +15,8 @@ public class Main {
 
         for(int i =0; i < s.length(); i++) {
             sChars.put(s.charAt(i), sChars.getOrDefault(s.charAt(i), 0)+1);
+            tChars.put(t.charAt(i), tChars.getOrDefault(t.charAt(i), 0)+1);
         }
-        for(int j =0; j < t.length(); j++) {
-            tChars.put(t.charAt(j), tChars.getOrDefault(t.charAt(j), 0)+1);
-        }
-
         return sChars.equals(tChars);
     }
 
