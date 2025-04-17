@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="TwoSum" />
-        <module name="ContainsDuplicate" />
         <module name="Anagram" />
+        <module name="GroupAnagrams" />
+        <module name="ContainsDuplicate" />
       </profile>
     </annotationProcessing>
   </component>
