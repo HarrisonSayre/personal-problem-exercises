@@ -9,8 +9,13 @@
         <module name="TwoSum" />
         <module name="Anagram" />
         <module name="GroupAnagrams" />
+        <module name="ProductOfArrayExceptSelf" />
         <module name="ContainsDuplicate" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ProductExceptSelf" target="17" />
+      <module name="untitled" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

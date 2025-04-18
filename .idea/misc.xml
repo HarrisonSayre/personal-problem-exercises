@@ -9,7 +9,16 @@
         <option value="$PROJECT_DIR$/exercises/TwoSum/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/Anagram/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/GroupAnagrams/pom.xml" />
+        <option value="$PROJECT_DIR$/ProductExceptSelf/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/ProductExceptSelf/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/ProductOfArrayExceptSelf/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ProductExceptSelf/pom.xml" />
+        <option value="$PROJECT_DIR$/ProductExceptSelf/untitled/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
