@@ -9,11 +9,11 @@ public class Main {
         int j = s.length()-1;
 
         while(i < j) {
-            while(!Character.isAlphabetic(s.charAt(i))) {
+            while(!Character.isAlphabetic(s.charAt(i)) && i<j ) {
                 i++;
             }
 
-            while(!Character.isAlphabetic(s.charAt(j))) {
+            while(!Character.isAlphabetic(s.charAt(j)) && i<j) {
                 j--;
             }
             if(s.toLowerCase().charAt(i) != s.toLowerCase().charAt(j)){
@@ -27,6 +27,6 @@ public class Main {
 
     public static void main(String[] args) {
         Main test = new Main();
-        System.out.println(test.isPalindrome("a ,,,  ,bb   a"));
+        System.out.println(test.isPalindrome("  ,B/b        "));
     }
 }
