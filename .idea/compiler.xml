@@ -11,6 +11,7 @@
         <module name="GroupAnagrams" />
         <module name="ProductOfArrayExceptSelf" />
         <module name="ContainsDuplicate" />
+        <module name="ValidPalindrome" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
