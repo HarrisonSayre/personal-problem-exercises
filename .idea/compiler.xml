@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ProductOfArrayExceptSelf" />
+        <module name="ValidPrentheses" />
+        <module name="ValidPalindrome" />
         <module name="TwoSum" />
         <module name="Anagram" />
         <module name="GroupAnagrams" />
-        <module name="ProductOfArrayExceptSelf" />
         <module name="ContainsDuplicate" />
-        <module name="ValidPalindrome" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
