@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ProductOfArrayExceptSelf" />
         <module name="ValidPrentheses" />
+        <module name="MinStack" />
         <module name="ValidPalindrome" />
         <module name="TwoSum" />
         <module name="Anagram" />

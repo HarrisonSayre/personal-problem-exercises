@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/exercises/ProductOfArrayExceptSelf/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/ValidPalindrome/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/ValidPrentheses/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/MinStack/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
