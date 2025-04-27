@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/exercises/ValidPalindrome/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/ValidPrentheses/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/MinStack/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/PolishNotation/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

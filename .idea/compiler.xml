@@ -9,6 +9,7 @@
         <module name="ProductOfArrayExceptSelf" />
         <module name="ValidPrentheses" />
         <module name="MinStack" />
+        <module name="PolishNotation" />
         <module name="ValidPalindrome" />
         <module name="TwoSum" />
         <module name="Anagram" />
