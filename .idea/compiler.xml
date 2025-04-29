@@ -10,6 +10,7 @@
         <module name="ValidPrentheses" />
         <module name="MinStack" />
         <module name="PolishNotation" />
+        <module name="BinarySearch" />
         <module name="ValidPalindrome" />
         <module name="TwoSum" />
         <module name="Anagram" />
