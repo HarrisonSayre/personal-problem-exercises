@@ -3,13 +3,10 @@ package org.example;
 public class Main {
 
     public int binarySearch(int[] nums, int target, int startIndex, int endIndex){
-        //System.out.println("START "+startIndex);
-        //System.out.println("END "+endIndex);
         if(startIndex > endIndex){
             return -1;
         }
         int arrayMid = (startIndex+endIndex)/2;
-        //System.out.println("ARRAY MID "+arrayMid);
         int curNum = nums[arrayMid];
         if(curNum== target) {
             return arrayMid;
