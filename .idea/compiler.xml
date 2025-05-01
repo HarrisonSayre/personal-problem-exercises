@@ -11,6 +11,7 @@
         <module name="MinStack" />
         <module name="PolishNotation" />
         <module name="BinarySearch" />
+        <module name="TwoSumII" />
         <module name="ValidPalindrome" />
         <module name="TwoSum" />
         <module name="Anagram" />
