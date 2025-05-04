@@ -14,6 +14,7 @@
         <module name="TwoSumII" />
         <module name="ValidPalindrome" />
         <module name="TwoSum" />
+        <module name="KFrequentElements" />
         <module name="Anagram" />
         <module name="GroupAnagrams" />
         <module name="ContainsDuplicate" />
