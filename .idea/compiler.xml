@@ -7,13 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ProductOfArrayExceptSelf" />
-        <module name="ValidPrentheses" />
-        <module name="MinStack" />
         <module name="PolishNotation" />
         <module name="BinarySearch" />
         <module name="TwoSumII" />
         <module name="ValidPalindrome" />
         <module name="TwoSum" />
+        <module name="LongestConsecutiveSequence" />
+        <module name="ValidPrentheses" />
+        <module name="MinStack" />
         <module name="KFrequentElements" />
         <module name="Anagram" />
         <module name="GroupAnagrams" />
