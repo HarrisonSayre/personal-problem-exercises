@@ -18,6 +18,7 @@
         <module name="KFrequentElements" />
         <module name="Anagram" />
         <module name="GroupAnagrams" />
+        <module name="ThreeSum" />
         <module name="ContainsDuplicate" />
       </profile>
     </annotationProcessing>
