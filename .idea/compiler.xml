@@ -13,6 +13,7 @@
         <module name="ValidPalindrome" />
         <module name="TwoSum" />
         <module name="LongestConsecutiveSequence" />
+        <module name="ReverseLinkedList" />
         <module name="ValidPrentheses" />
         <module name="MinStack" />
         <module name="KFrequentElements" />
