@@ -13,7 +13,6 @@
         <module name="ValidPalindrome" />
         <module name="TwoSum" />
         <module name="LongestConsecutiveSequence" />
-        <module name="ReverseLinkedList" />
         <module name="ValidPrentheses" />
         <module name="MinStack" />
         <module name="KFrequentElements" />
@@ -25,6 +24,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ProductExceptSelf" target="17" />
+      <module name="ReverseLinkedList" target="17" />
       <module name="untitled" target="17" />
     </bytecodeTargetLevel>
   </component>
