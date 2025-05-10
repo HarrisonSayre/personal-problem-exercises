@@ -20,6 +20,7 @@
         <module name="Anagram" />
         <module name="GroupAnagrams" />
         <module name="ThreeSum" />
+        <module name="MergeSortedLists" />
         <module name="ContainsDuplicate" />
       </profile>
     </annotationProcessing>
