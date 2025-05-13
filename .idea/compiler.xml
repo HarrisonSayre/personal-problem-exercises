@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ProductOfArrayExceptSelf" />
+        <module name="ContainerWithMostWater" />
         <module name="PolishNotation" />
         <module name="BinarySearch" />
         <module name="TwoSumII" />
