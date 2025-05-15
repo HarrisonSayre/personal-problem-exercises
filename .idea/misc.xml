@@ -25,6 +25,7 @@
         <option value="$PROJECT_DIR$/exercises/ReverseLinkedList/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/MergeSortedLists/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/ContainerWithMostWater/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/LinkedListCycle/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
