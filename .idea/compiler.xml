@@ -19,6 +19,7 @@
         <module name="ValidPrentheses" />
         <module name="MinStack" />
         <module name="KFrequentElements" />
+        <module name="ReorderList" />
         <module name="Anagram" />
         <module name="GroupAnagrams" />
         <module name="ThreeSum" />

@@ -26,10 +26,13 @@
         <option value="$PROJECT_DIR$/exercises/MergeSortedLists/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/ContainerWithMostWater/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/LinkedListCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/../personal-problem-/exercises/ReorderList/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/ReorderList/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/../personal-problem-/exercises/ReorderList/pom.xml" />
         <option value="$PROJECT_DIR$/ProductExceptSelf/pom.xml" />
         <option value="$PROJECT_DIR$/ProductExceptSelf/untitled/pom.xml" />
       </set>
