@@ -25,6 +25,7 @@
         <module name="ThreeSum" />
         <module name="MergeSortedLists" />
         <module name="ContainsDuplicate" />
+        <module name="RemoveNthNode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
