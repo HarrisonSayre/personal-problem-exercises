@@ -24,6 +24,7 @@
         <module name="GroupAnagrams" />
         <module name="ThreeSum" />
         <module name="MergeSortedLists" />
+        <module name="CopyListWithRandomPointer" />
         <module name="ContainsDuplicate" />
         <module name="RemoveNthNode" />
       </profile>
