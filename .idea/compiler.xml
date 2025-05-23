@@ -16,6 +16,7 @@
         <module name="LongestConsecutiveSequence" />
         <module name="LinkedListCycle" />
         <module name="ReverseLinkedList" />
+        <module name="AddTwo" />
         <module name="ValidPrentheses" />
         <module name="MinStack" />
         <module name="KFrequentElements" />
