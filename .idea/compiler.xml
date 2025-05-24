@@ -23,6 +23,7 @@
         <module name="ReorderList" />
         <module name="Anagram" />
         <module name="GroupAnagrams" />
+        <module name="FindDuplicateNum" />
         <module name="ThreeSum" />
         <module name="MergeSortedLists" />
         <module name="CopyListWithRandomPointer" />

@@ -31,6 +31,7 @@
         <option value="$PROJECT_DIR$/exercises/RemoveNthNode/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/CopyListWithRandomPointer/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/AddTwo/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/FindDuplicateNum/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
