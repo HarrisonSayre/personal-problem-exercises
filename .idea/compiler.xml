@@ -17,6 +17,7 @@
         <module name="LinkedListCycle" />
         <module name="ReverseLinkedList" />
         <module name="AddTwo" />
+        <module name="LRUCache" />
         <module name="ValidPrentheses" />
         <module name="MinStack" />
         <module name="KFrequentElements" />
