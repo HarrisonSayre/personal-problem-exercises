@@ -33,6 +33,7 @@
         <option value="$PROJECT_DIR$/exercises/AddTwo/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/FindDuplicateNum/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/LRUCache/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/InvertBinaryTree/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

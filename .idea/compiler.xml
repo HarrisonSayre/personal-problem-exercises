@@ -6,30 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ProductOfArrayExceptSelf" />
-        <module name="ContainerWithMostWater" />
         <module name="PolishNotation" />
-        <module name="BinarySearch" />
         <module name="TwoSumII" />
         <module name="ValidPalindrome" />
+        <module name="AddTwo" />
+        <module name="MinStack" />
+        <module name="KFrequentElements" />
+        <module name="ThreeSum" />
+        <module name="CopyListWithRandomPointer" />
+        <module name="ContainsDuplicate" />
+        <module name="RemoveNthNode" />
+        <module name="ProductOfArrayExceptSelf" />
+        <module name="ContainerWithMostWater" />
+        <module name="BinarySearch" />
         <module name="TwoSum" />
         <module name="LongestConsecutiveSequence" />
         <module name="LinkedListCycle" />
         <module name="ReverseLinkedList" />
-        <module name="AddTwo" />
         <module name="LRUCache" />
         <module name="ValidPrentheses" />
-        <module name="MinStack" />
-        <module name="KFrequentElements" />
+        <module name="InvertBinaryTree" />
         <module name="ReorderList" />
         <module name="Anagram" />
         <module name="GroupAnagrams" />
         <module name="FindDuplicateNum" />
-        <module name="ThreeSum" />
         <module name="MergeSortedLists" />
-        <module name="CopyListWithRandomPointer" />
-        <module name="ContainsDuplicate" />
-        <module name="RemoveNthNode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
