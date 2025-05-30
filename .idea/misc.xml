@@ -34,11 +34,14 @@
         <option value="$PROJECT_DIR$/exercises/FindDuplicateNum/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/LRUCache/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/InvertBinaryTree/pom.xml" />
+        <option value="$PROJECT_DIR$/MaximumDepthBinaryTree/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/MaxiumDepthBinaryTree/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/../personal-problem-/exercises/ReorderList/pom.xml" />
+        <option value="$PROJECT_DIR$/MaximumDepthBinaryTree/pom.xml" />
         <option value="$PROJECT_DIR$/ProductExceptSelf/pom.xml" />
         <option value="$PROJECT_DIR$/ProductExceptSelf/untitled/pom.xml" />
       </set>
