@@ -12,6 +12,7 @@
         <module name="ValidPalindrome" />
         <module name="AddTwo" />
         <module name="MinStack" />
+        <module name="DiameterOfBinaryTree" />
         <module name="KFrequentElements" />
         <module name="ThreeSum" />
         <module name="CopyListWithRandomPointer" />

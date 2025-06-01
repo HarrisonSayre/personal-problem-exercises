@@ -36,6 +36,7 @@
         <option value="$PROJECT_DIR$/exercises/InvertBinaryTree/pom.xml" />
         <option value="$PROJECT_DIR$/MaximumDepthBinaryTree/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/MaxiumDepthBinaryTree/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/DiameterOfBinaryTree/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
