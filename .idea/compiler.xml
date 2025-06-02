@@ -21,6 +21,7 @@
         <module name="ProductOfArrayExceptSelf" />
         <module name="ContainerWithMostWater" />
         <module name="BinarySearch" />
+        <module name="BalancedBinaryTree" />
         <module name="TwoSum" />
         <module name="LongestConsecutiveSequence" />
         <module name="LinkedListCycle" />
