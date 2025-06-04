@@ -26,6 +26,7 @@
         <module name="LongestConsecutiveSequence" />
         <module name="LinkedListCycle" />
         <module name="ReverseLinkedList" />
+        <module name="SameTree" />
         <module name="LRUCache" />
         <module name="ValidPrentheses" />
         <module name="InvertBinaryTree" />
