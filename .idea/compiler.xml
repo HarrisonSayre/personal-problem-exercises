@@ -13,6 +13,7 @@
         <module name="AddTwo" />
         <module name="MinStack" />
         <module name="DiameterOfBinaryTree" />
+        <module name="IsSubTree" />
         <module name="KFrequentElements" />
         <module name="ThreeSum" />
         <module name="CopyListWithRandomPointer" />

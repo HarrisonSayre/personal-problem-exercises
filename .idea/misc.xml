@@ -39,6 +39,7 @@
         <option value="$PROJECT_DIR$/exercises/DiameterOfBinaryTree/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/BalancedBinaryTree/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/SameTree/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/IsSubTree/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
