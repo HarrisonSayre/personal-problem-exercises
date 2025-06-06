@@ -28,6 +28,7 @@
         <module name="LinkedListCycle" />
         <module name="ReverseLinkedList" />
         <module name="SameTree" />
+        <module name="LowestCommonAncestor" />
         <module name="LRUCache" />
         <module name="ValidPrentheses" />
         <module name="InvertBinaryTree" />

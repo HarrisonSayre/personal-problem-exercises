@@ -40,6 +40,7 @@
         <option value="$PROJECT_DIR$/exercises/BalancedBinaryTree/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/SameTree/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/IsSubTree/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/LowestCommonAncestor/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
