@@ -46,6 +46,7 @@ public class Main {
         node6.left = node2;
         node6.right =node8;
 
+        System.out.println(test.lowestCommonAncestor(node6, node2, node8).val);
         System.out.println(test.lowestCommonAncestor(node6, node2, node4).val);
 
     }
