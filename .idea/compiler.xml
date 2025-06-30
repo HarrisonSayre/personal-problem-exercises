@@ -10,6 +10,7 @@
         <module name="TwoSumII" />
         <module name="MaxiumDepthBinaryTree" />
         <module name="ValidPalindrome" />
+        <module name="LevelOrder" />
         <module name="AddTwo" />
         <module name="MinStack" />
         <module name="DiameterOfBinaryTree" />
@@ -40,6 +41,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="LevelOrderTraversal" target="17" />
       <module name="ProductExceptSelf" target="17" />
       <module name="untitled" target="17" />
     </bytecodeTargetLevel>

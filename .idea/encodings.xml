@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/../personal-problem-/exercises/ReorderList/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../personal-problem-/exercises/ReorderList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LevelOrderTraversal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LevelOrderTraversal/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ProductExceptSelf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ProductExceptSelf/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ProductExceptSelf/untitled/src/main/java" charset="UTF-8" />
@@ -35,6 +37,8 @@
     <file url="file://$PROJECT_DIR$/exercises/KFrequentElements/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exercises/LRUCache/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exercises/LRUCache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/LevelOrder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/LevelOrder/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exercises/LinkedListCycle/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exercises/LinkedListCycle/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exercises/LongestConsecutiveSequence/src/main/java" charset="UTF-8" />

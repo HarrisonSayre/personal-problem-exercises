@@ -41,11 +41,14 @@
         <option value="$PROJECT_DIR$/exercises/SameTree/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/IsSubTree/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/LowestCommonAncestor/pom.xml" />
+        <option value="$PROJECT_DIR$/LevelOrderTraversal/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/LevelOrder/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/../personal-problem-/exercises/ReorderList/pom.xml" />
+        <option value="$PROJECT_DIR$/LevelOrderTraversal/pom.xml" />
         <option value="$PROJECT_DIR$/MaximumDepthBinaryTree/pom.xml" />
         <option value="$PROJECT_DIR$/ProductExceptSelf/pom.xml" />
         <option value="$PROJECT_DIR$/ProductExceptSelf/untitled/pom.xml" />
