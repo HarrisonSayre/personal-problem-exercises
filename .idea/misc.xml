@@ -43,6 +43,7 @@
         <option value="$PROJECT_DIR$/exercises/LowestCommonAncestor/pom.xml" />
         <option value="$PROJECT_DIR$/LevelOrderTraversal/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/LevelOrder/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/ValidSudoku/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
