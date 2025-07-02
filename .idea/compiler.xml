@@ -25,6 +25,7 @@
         <module name="ContainerWithMostWater" />
         <module name="BinarySearch" />
         <module name="BalancedBinaryTree" />
+        <module name="DailyTemp" />
         <module name="TwoSum" />
         <module name="LongestConsecutiveSequence" />
         <module name="LinkedListCycle" />

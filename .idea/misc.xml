@@ -44,6 +44,7 @@
         <option value="$PROJECT_DIR$/LevelOrderTraversal/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/LevelOrder/pom.xml" />
         <option value="$PROJECT_DIR$/exercises/ValidSudoku/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/DailyTemp/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
