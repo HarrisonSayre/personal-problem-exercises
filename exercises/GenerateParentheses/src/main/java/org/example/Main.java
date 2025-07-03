@@ -15,7 +15,6 @@ public class Main {
 
         if(open == close && open == total)
         {
-            //System.out.println(currentCombo);
             parenCombos.add(currentCombo);
             return;
         }
@@ -34,8 +33,6 @@ public class Main {
         }
 
         dfsParens(0, 0, n, "", validParentheses);
-
-        //System.out.println(validParentheses);
 
         return validParentheses;
     }
