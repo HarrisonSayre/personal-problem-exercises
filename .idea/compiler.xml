@@ -34,6 +34,7 @@
         <module name="LowestCommonAncestor" />
         <module name="LRUCache" />
         <module name="ValidPrentheses" />
+        <module name="GenerateParentheses" />
         <module name="InvertBinaryTree" />
         <module name="ReorderList" />
         <module name="Anagram" />
