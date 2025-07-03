@@ -19,6 +19,7 @@
         <module name="KFrequentElements" />
         <module name="ThreeSum" />
         <module name="CopyListWithRandomPointer" />
+        <module name="Matrix2DSearch" />
         <module name="ContainsDuplicate" />
         <module name="RemoveNthNode" />
         <module name="ProductOfArrayExceptSelf" />
