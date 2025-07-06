@@ -41,6 +41,7 @@
         <module name="Anagram" />
         <module name="GroupAnagrams" />
         <module name="FindDuplicateNum" />
+        <module name="CarFleet" />
         <module name="MergeSortedLists" />
       </profile>
     </annotationProcessing>
